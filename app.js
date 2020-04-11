@@ -74,7 +74,7 @@ function lose(userChoice, computerChoice){
 }
 
 function draw(userChoice, computerChoice){
-    result_p.innerHTML = convertToWord(userChoice).bold() + " draws " + convertToWord(computerChoice).bold() + " it's a draw!"
+    result_p.innerHTML = convertToWord(userChoice).bold() + " equals " + convertToWord(computerChoice).bold() + " it's a draw!"
 }
 
 function main(){
