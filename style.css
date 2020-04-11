@@ -83,3 +83,19 @@ header > h1{
     color: white;
     font-size: 14;
 }
+
+
+.choice.greenGlow{
+    border: 4px solid green;
+    box-shadow: 0 0 10px darkgreen;
+}
+
+.choice.redGlow{
+    border: 4px solid red;
+    box-shadow: 0 0 10px darkred;
+}
+
+.choice.greyGlow{
+    border: 4px solid grey;
+    box-shadow: 0 0 10px darkgrey;
+}
