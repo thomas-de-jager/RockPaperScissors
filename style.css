@@ -20,6 +20,20 @@ header > h1{
     text-align: center;
 }
 
+footer{
+    background: black;
+    padding: 10px;
+    font-size: 8px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer > h1{
+    color: whitesmoke;
+    text-align: center;
+}
+
 .scoreboard{
     margin: 40px auto;
     padding: 15px 30px;
