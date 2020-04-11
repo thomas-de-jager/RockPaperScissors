@@ -23,13 +23,13 @@ header > h1{
 footer{
     background: black;
     padding: 10px;
-    font-size: 8px;
+    font-size: 14px;
     position: absolute;
     bottom: 0;
     width: 100%;
 }
 
-footer > h1{
+footer > p{
     color: whitesmoke;
     text-align: center;
 }
